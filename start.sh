@@ -1,3 +1,3 @@
 #!/bin/bash
-echo Hello
+echo 你好
 echo JimTGreen
